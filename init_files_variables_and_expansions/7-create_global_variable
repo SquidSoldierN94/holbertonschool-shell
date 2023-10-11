@@ -1,2 +1,2 @@
 #!/bin/bash
-GLOBAL_VAR=BEST=school
+export BEST=school
