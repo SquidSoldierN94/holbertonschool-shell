@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv loc_var
+set loc_var | printenv
