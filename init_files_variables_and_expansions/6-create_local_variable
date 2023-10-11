@@ -1,2 +1,2 @@
 #!/bin/bash
-set varname:loc_var
+set BEST:School
